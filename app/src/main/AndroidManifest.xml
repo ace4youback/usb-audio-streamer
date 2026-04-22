@@ -6,7 +6,7 @@
     <application
         android:allowBackup="false"
         android:label="USB Audio"
-        android:theme="@android:style/Theme.Material.NoTitleBar.Fullscreen">
+        android:theme="@android:style/Theme.Material.Light.NoActionBar">
 
         <activity
             android:name=".MainActivity"
